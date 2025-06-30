@@ -1,6 +1,6 @@
 # Christopher Lee
 
-*chris@clee.ai | Duncanville, TX*
+*chris@clee.ai*
 [linkedin.com/in/christopher-lee-utd](https://www.linkedin.com/in/christopher-lee-utd) | [github.com/clee-ai](https://github.com/clee-ai)
 
 ---
