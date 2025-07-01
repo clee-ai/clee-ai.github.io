@@ -26,8 +26,7 @@ layout: default
 - Drove significant performance and efficiency improvements for the core AI and SLAM algorithms, optimizing C++ and CUDA code for reduced latency and memory usage in production.
 - Developed a sub-centimeter accuracy localization suite leveraging both EKF and factor-graph optimization for robust navigation in GNSS-rich (tightly-coupled IMU/GNSS) and GNSS-denied (LiDAR SLAM) environments.
 - Engineered a complete training and rendering pipeline for Gaussian Splatting, enabling high-fidelity 3D reconstructions of real-world scenes from vision and LiDAR data.
-- Developed a robust suite of classical computer vision solutions, implementing traditional SfM-based reconstruction pipelines, image gain compensation for photometric consistency, and a real-time dynamic object filtering system.
-- Designed and implemented robust, fully automated algorithms for intrinsic and extrinsic calibration of multi-sensor systems (LiDAR, IMU, Camera).
+- Implemented a robust suite of classical computer vision solutions for data integrity, including automated multi-sensor calibration, SfM-based reconstruction pipelines, and real-time dynamic object filtering.
 
 <div alt="entry-title">
     <h3>Undergraduate AI Researcher</h3>
