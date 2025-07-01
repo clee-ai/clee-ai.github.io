@@ -9,7 +9,7 @@ layout: default
 
 > <span alt="icon">&#xe7ca;</span> <a href="mailto:chris@clee.ai">`chris@clee.ai`</a>&emsp;&emsp; <span alt="icon">&#xe69c;</span> <a href="https://clee.ai">clee.ai</a>&emsp;&emsp; <span alt="icon">&#xe600;</span> <a href="https://github.com/clee-ai">github.com/clee-ai</a>&emsp;&emsp; <span alt="icon">&#xe6b3;</span> <a href="https://www.linkedin.com/in/christopher-lee-utd/">linkedin.com/in/christopher-lee-utd</a>
 
-<img alt="avatar" src="headshot.png" style="background-color: var(--border-color);">
+<img alt="avatar" src="headshot.png" style="background-color: var(--border-color); print-color-adjust: exact;">
 
 > Robotics and AI Engineer with 4+ years of experience deploying full-stack perception systems, transforming multi-sensor data into robust localization, 3D reconstruction, and AI-powered understanding for autonomous platforms.
 
@@ -21,12 +21,12 @@ layout: default
     <p>Feb 2021 - Present</p>
 </div>
 
-- Architected and deployed state-of-the-art AI models for automated classification and segmentation of real-world, terabyte-scale LiDAR datasets acquired by customers.
-- Engineered and maintained a full-stack robotics pipeline, from backend C++ algorithm development to creating customer-facing frontend interfaces in JavaScript/Electron.
-- Drove significant performance and efficiency improvements for the core AI and SLAM algorithms, optimizing C++ and CUDA code for reduced latency and memory usage in production.
+- Architected and deployed state-of-the-art AI models for automated classification of real-world, terabyte-scale LiDAR datasets.
+- Engineered and maintained a full-stack customer-facing robotics pipeline, from backend C++ algorithm development to frontend interfaces in JavaScript/Electron.
+- Drove significant performance and efficiency improvements for the core AI and SLAM algorithms, optimizing C++ and CUDA code for reduced latency and memory usage in constrained production environments.
 - Developed a sub-centimeter accuracy localization suite using an EKF with LiDAR SLAM in GNSS-denied environments and a factor-graph optimizer for tightly-coupled IMU/GNSS. 
 - Engineered a complete training and rendering pipeline for Gaussian Splatting, enabling high-fidelity 3D reconstructions of real-world scenes from vision and LiDAR data.
-- Implemented a robust suite of classical computer vision solutions for data integrity, including automated multi-sensor calibration, SfM-based reconstruction pipelines, and real-time dynamic object filtering.
+- Implemented a robust suite of classical computer vision solutions, including automated multi-sensor calibration, SfM-based reconstruction pipelines, and real-time dynamic object filtering.
 
 <div alt="entry-title">
     <h3>Undergraduate AI Researcher</h3>
@@ -52,12 +52,12 @@ layout: default
     <a href="https://github.com/torch-points3d/torch-points3d">github.com/torch-points3d/torch-points3d</a>
 </div>
 
-- Architected a compatibility layer for multiple sparse backends (TorchSparse, MinkowskiEngine) and expanded capabilities by adding new models like SPVCNN and mixed-precision support.
+- Architected a compatibility layer for multiple sparse backends (TorchSparse, MinkowskiEngine), expanded capabilities by adding new models (ex. SPVCNN), and significantly improved memory usage by implementing mixed-precision support.
 - As a core maintainer, improved code quality and usability through extensive refactoring, documentation updates, training configuration improvements, and community support.
 
 ## &#xecfa; Skills
 
-- **Programming & Libraries**: C++, Python, CUDA, JavaScript, Pytorch, OpenCV, PCL, Open3D, Ceres, GTSAM, scikit-learn
+- **Programming & Libraries**: C++, Python, CUDA, Pytorch, OpenCV, PCL, Open3D, Ceres, GTSAM, scikit-learn, JavaScript
 - **AI & Computer Vision**: 2D/3D Semantic Segmentation, Object Detection, NeRF, Gaussian Splats, SfM/MVS, Sensor Fusion
 - **Robotics & 3D Data**: SLAM, Navigation, EKF, FGO, GNSS, Sensor Calibration, State Estimation, Point Cloud Processing
 - **Tools & Platforms**: AWS (EC2), Docker, ROS, Git, CMake, vcpkg, Wandb, TensorBoard, Electron, Node.js
@@ -85,4 +85,4 @@ Bachelor of Science, Computer Science
     <p>Jan 2023 - Jun 2023</p>
 </div>
 
-- Provided comprehensive care for shelter animals, from daily walks and kennel maintenance to implementing targeted play and socialization strategies designed to make less sociable cats and dogs more adoptable.
+- Provided care for shelter cats and dogs, from daily walks and kennel maintenance to implementing targeted play and socialization strategies designed to make less sociable animals more adoptable.
