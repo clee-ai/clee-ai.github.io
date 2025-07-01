@@ -7,8 +7,8 @@
 
     /* Custom Configs */
 
-    --text-size: 9.5pt;
-    --line-height: 1.8;
+    --text-size: 9pt;
+    --line-height: 1.5;
     --avatar-width: 24mm;
 
     --h1-size: 25pt;
@@ -103,7 +103,7 @@ h2 {
 img[alt="avatar"] {
     box-shadow: none;
     border: none;
-    margin-top: -26mm !important;
+    margin-top: -29mm !important;
     right: 1mm;
 }
 
