@@ -24,7 +24,7 @@ layout: default
 - Architected and deployed state-of-the-art AI models for automated classification and segmentation of real-world, terabyte-scale LiDAR datasets acquired by customers.
 - Engineered and maintained a full-stack robotics pipeline, from backend C++ algorithm development to creating customer-facing frontend interfaces in JavaScript/Electron.
 - Drove significant performance and efficiency improvements for the core AI and SLAM algorithms, optimizing C++ and CUDA code for reduced latency and memory usage in production.
-- Developed a sub-centimeter accuracy localization suite leveraging both EKF and factor-graph optimization for robust navigation in GNSS-rich (tightly-coupled IMU/GNSS) and GNSS-denied (LiDAR SLAM) environments.
+- Developed a sub-centimeter accuracy localization suite using an EKF with LiDAR SLAM in GNSS-denied environments and a factor-graph optimizer for tightly-coupled IMU/GNSS. 
 - Engineered a complete training and rendering pipeline for Gaussian Splatting, enabling high-fidelity 3D reconstructions of real-world scenes from vision and LiDAR data.
 - Implemented a robust suite of classical computer vision solutions for data integrity, including automated multi-sensor calibration, SfM-based reconstruction pipelines, and real-time dynamic object filtering.
 
@@ -40,8 +40,7 @@ layout: default
 ## &#xe635; Open-Source Contributions
 
 <div alt="entry-title">
-    <h3>TorchSparse (MIT HAN Lab)</h3>
-    <h4>☆ 1.4k</h4>
+    <h3>TorchSparse (MIT HAN Lab) ☆ 1.4k</h3>
     <a href="https://github.com/mit-han-lab/torchsparse">github.com/mit-han-lab/torchsparse</a>
 </div>
 
@@ -49,14 +48,12 @@ layout: default
 - As a maintainer, ensured library stability and ease-of-use by managing PyTorch API compatibility, authoring user-facing documentation, and resolving community-reported issues.
 
 <div alt="entry-title">
-    <h3>Torch-Points3D</h3>
-    <h4>☆ 2.6k</h4>
+    <h3>Torch-Points3D ☆ 2.6k</h3>
     <a href="https://github.com/torch-points3d/torch-points3d">github.com/torch-points3d/torch-points3d</a>
 </div>
 
-- Architected and implemented a compatibility layer to support multiple sparse convolution backends, including TorchSparse and MinkowskiEngine, allowing users to seamlessly switch between high-performance engines.
-- Expanded the framework's capabilities by adding new models like SPVCNN, implementing mixed-precision (FP16/BF16) support for sparse convolutions, and refactoring training configurations for improved usability.
-- As a core maintainer, improved code quality through extensive refactoring while actively supporting the community by reviewing pull requests, resolving user issues, and authoring new documentation.
+- Architected a compatibility layer for multiple sparse backends (TorchSparse, MinkowskiEngine) and expanded capabilities by adding new models like SPVCNN and mixed-precision support.
+- As a core maintainer, improved code quality and usability through extensive refactoring, documentation updates, training configuration improvements, and community support.
 
 ## &#xecfa; Skills
 
