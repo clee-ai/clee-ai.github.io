@@ -37,36 +37,36 @@
 
 @font-face {
     font-family: "SourceHanSansCN";
-    src: url('assets/fonts/SourceHanSansCN-Regular.ttf');
+    src: url('../fonts/SourceHanSansCN-Regular.ttf');
 }
 
 @font-face {
     font-family: "SourceHanSansCN";
-    src: url('assets/fonts/SourceHanSansCN-Medium.ttf');
+    src: url('../fonts/SourceHanSansCN-Medium.ttf');
     font-weight: bold;
 }
 
 @font-face {
     font-family: "SourceHanSerifCN";
-    src: url('assets/fonts/SourceHanSerifCN-Bold.ttf');
+    src: url('../fonts/SourceHanSerifCN-Bold.ttf');
     font-weight: bold;
 }
 
 @font-face {
     font-family: "JetBrainsMono";
-    src: url('assets/fonts/JetBrainsMono-Regular.ttf');
+    src: url('../fonts/JetBrainsMono-Regular.ttf');
 }
 
 @font-face {
     font-family: "LapisCV Icon";
     font-weight: normal;
-    src: url('assets/fonts/iconfont.ttf?t=1727014108932') format('truetype');
+    src: url('../fonts/iconfont.ttf?t=1727014108932') format('truetype');
 }
 
 @font-face {
     font-family: "LapisCV Icon";
     font-weight: bold;
-    src: url('assets/fonts/iconfont.ttf?t=1727014108932') format('truetype');
+    src: url('../fonts/iconfont.ttf?t=1727014108932') format('truetype');
 }
 
 @media screen {
