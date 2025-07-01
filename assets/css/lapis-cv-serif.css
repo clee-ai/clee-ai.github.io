@@ -103,12 +103,12 @@ h2 {
 img[alt="avatar"] {
     box-shadow: none;
     border: none;
-    margin-top: -29mm !important;
+    margin-top: -26mm !important;
     right: 1mm;
 }
 
 blockquote {
-    margin: 0 1mm 6mm 1mm;
+    margin: 0 1mm 3mm 1mm;
     padding: 0;
     background: unset !important;
     border-left-width: unset;

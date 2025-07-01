@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="lapis-cv/styles/main.css">
-<link rel="stylesheet" href="lapis-cv/styles/lapis-cv-serif.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/lapis-cv-serif.css">
 
 # Christopher Lee
 
@@ -11,7 +11,7 @@ layout: default
 
 <img alt="avatar" src="headshot.png" style="background-color: var(--border-color);">
 
-Robotics and AI Engineer with 4+ years of experience deploying full-stack perception systems, transforming multi-sensor data into robust localization, 3D reconstruction, and AI-powered understanding for autonomous platforms.
+> Robotics and AI Engineer with 4+ years of experience deploying full-stack perception systems, transforming multi-sensor data into robust localization, 3D reconstruction, and AI-powered understanding for autonomous platforms.
 
 ## &#xe618; Work Experience
 
