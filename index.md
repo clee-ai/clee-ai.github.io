@@ -59,7 +59,7 @@ layout: default
 
 - **Programming & Libraries**: C++, Python, CUDA, JavaScript, Pytorch, OpenCV, PCL, Open3D, Ceres, GTSAM, scikit-learn
 - **AI & Computer Vision**: 2D/3D Semantic Segmentation, Object Detection, NeRF, Gaussian Splats, SfM/MVS, Sensor Fusion
-- **Robotics & 3D Data**: SLAM, Navigation, Extended Kalman Filter, Factor-graph optimization, GNSS, Sensor Calibration, State Estimation, Point Cloud Processing
+- **Robotics & 3D Data**: SLAM, Navigation, EKF, FGO, GNSS, Sensor Calibration, State Estimation, Point Cloud Processing
 - **Tools & Platforms**: AWS (EC2), Docker, ROS, Git, CMake, vcpkg, Wandb, TensorBoard, Electron, Node.js
 
 ## &#xe603; Patents
