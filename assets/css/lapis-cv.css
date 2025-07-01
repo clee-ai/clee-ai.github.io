@@ -8,7 +8,7 @@
     /* Custom Configs */
 
     --text-size: 10pt;
-    --line-height: 1.8;
+    --line-height: 1.5;
     --avatar-width: 28mm;
 
     --h1-size: 16pt;
@@ -35,30 +35,30 @@
 
 @font-face {
     font-family: "SourceHanSansCN";
-    src: url('../fonts/SourceHanSansCN-Regular.ttf');
+    src: url('assets/fonts/SourceHanSansCN-Regular.ttf');
 }
 
 @font-face {
     font-family: "SourceHanSansCN";
-    src: url('../fonts/SourceHanSansCN-Bold.ttf');
+    src: url('assets/fonts/SourceHanSansCN-Bold.ttf');
     font-weight: bold;
 }
 
 @font-face {
     font-family: "JetBrainsMono";
-    src: url('../fonts/JetBrainsMono-Regular.ttf');
+    src: url('assets/fonts/JetBrainsMono-Regular.ttf');
 }
 
 @font-face {
     font-family: "LapisCV Icon";
     font-weight: normal;
-    src: url('../fonts/iconfont.ttf?t=1727014108932') format('truetype');
+    src: url('assets/fonts/iconfont.ttf?t=1727014108932') format('truetype');
 }
 
 @font-face {
     font-family: "LapisCV Icon";
     font-weight: bold;
-    src: url('../fonts/iconfont.ttf?t=1727014108932') format('truetype');
+    src: url('assets/fonts/iconfont.ttf?t=1727014108932') format('truetype');
 }
 
 @media screen {
