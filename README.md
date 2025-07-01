@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <link rel="stylesheet" href="lapis-cv/styles/main.css">
 <link rel="stylesheet" href="lapis-cv/styles/lapis-cv-serif.css">
 
