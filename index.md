@@ -61,10 +61,9 @@ layout: default
 ## &#xecfa; Skills
 
 - **Programming & Libraries**: C++, Python, CUDA, JavaScript, Pytorch, OpenCV, PCL, Open3D, Ceres, GTSAM, scikit-learn
-- **AI & Computer Vision**: Semantic/Instance Segmentation, Object Detection, NeRF, Gaussian Splatting, SfM/MVS, Sensor Fusion, Sparse Convolutions, High-Performance Kernels
-- **3D Architectures**: PointNet++, RandLA-Net, MinkowskiNet, SparseConvNet, SPVNAS, Splatfacto
-- **Robotics & 3D Data**: SLAM (Factor Graph, EKF), Sensor Calibration, State Estimation, Point Cloud Processing
-- **Tools & Platforms**: AWS (EC2), Docker, ROS, Git, CMake, vcpkg, Wandb, TensorBoard
+- **AI & Computer Vision**: 2D/3D Semantic Segmentation, Object Detection, NeRF, Gaussian Splats, SfM/MVS, Sensor Fusion
+- **Robotics & 3D Data**: SLAM, Navigation, Extended Kalman Filter, Factor-graph optimization, GNSS, Sensor Calibration, State Estimation, Point Cloud Processing
+- **Tools & Platforms**: AWS (EC2), Docker, ROS, Git, CMake, vcpkg, Wandb, TensorBoard, Electron, Node.js
 
 ## &#xe603; Patents
 
