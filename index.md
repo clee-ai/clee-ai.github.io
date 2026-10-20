@@ -7,7 +7,7 @@ layout: default
 
 # Christopher Lee
 
-> <span alt="icon">&#xe7ca;</span> <a href="mailto:chris@clee.ai">`chris@clee.ai`</a>&emsp;&emsp; <span alt="icon">&#xe69c;</span> <a href="https://clee.ai">clee.ai</a>&emsp;&emsp; <span alt="icon">&#xe600;</span> <a href="https://github.com/clee-ai">github.com/clee-ai</a>&emsp;&emsp; <span alt="icon">&#xe6b3;</span> <a href="https://www.linkedin.com/in/christopher-lee-utd/">linkedin.com/in/christopher-lee-utd</a>
+> <span alt="icon">&#xe7ca;</span> <a href="mailto:resume@clee.ai">`resume@clee.ai`</a>&emsp;&emsp; <span alt="icon">&#xe69c;</span> <a href="https://clee.ai">clee.ai</a>&emsp;&emsp; <span alt="icon">&#xe600;</span> <a href="https://github.com/clee-ai">github.com/clee-ai</a>&emsp;&emsp; <span alt="icon">&#xe6b3;</span> <a href="https://www.linkedin.com/in/christopher-lee-utd/">linkedin.com/in/christopher-lee-utd</a>
 
 <img alt="avatar" src="headshot.png" style="background-color: var(--border-color); print-color-adjust: exact;">
 
@@ -18,7 +18,7 @@ layout: default
 <div alt="entry-title">
     <h3>Senior Robotics & AI Engineer</h3>
     <h4>Rock Robotic</h4>
-    <p>Feb 2021 - Present</p>
+    <p>Feb 2021 - Mar 2026</p>
 </div>
 
 - Architected and deployed state-of-the-art AI models for automated classification of real-world, terabyte-scale LiDAR datasets.
